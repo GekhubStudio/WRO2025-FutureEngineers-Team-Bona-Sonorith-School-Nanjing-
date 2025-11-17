@@ -5,12 +5,12 @@
 ## Team Information
 
 - **Team Number**: Bona Sonorith School Nanjing[6021] 
-- **Team Members**: [Name 1, Student ID 1], [Name 2, Student ID 2], [Name 3, Student ID 3]  // 若2人则删除1人
-- **Coach Name**: [Coach's Full Name]
-- **Country/Region**: [Country/Region Name]
-- **School/Institution**: [School/Institution Name] (Optional)
+- **Team Members**: Sun keming 、Fei haoming、 Qiao xihan
+- **Coach Name**: Xue yuan
+- **Country/Region**: People's Republic of China
+- **School/Institution**: Bona Sonorith School Nanjing
 - **Competition Category**: WRO 2025 Future Engineers - Self-Driving Cars
-- **Repository Creation Date**: [YYYY-MM-DD]
+- **Repository Creation Date**: 2025-03-01
 
 ## Project Overview
 
