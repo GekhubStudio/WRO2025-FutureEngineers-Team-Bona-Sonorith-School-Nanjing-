@@ -64,11 +64,6 @@ The vehicle integrates computer vision, sensor fusion, and autonomous control to
 3. Select the correct port: "Tools" → "Port" → [Your Port, e.g., COM3 (Windows) or /dev/ttyUSB0 (Linux)].  
 4. Click "Verify" to compile the code. If no errors (0 warnings), proceed to upload.
 
-### 3. Code Upload (Raspberry Pi Part)
+### 3. Code Upload ()
 
-1. Connect Raspberry Pi to the computer via SSH (IP address: [Raspberry Pi IP, e.g., 192.168.1.100]) or use a monitor/keyboard.  
-2. Clone this repository to Raspberry Pi:  
-   
-   ```bash
-   git clone https://github.com/[Your GitHub Username]/WRO2025-FutureEngineers-SelfDrivingCar-Team[XXX].git
-   ```
+1. 
